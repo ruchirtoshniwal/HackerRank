@@ -1,5 +1,6 @@
 # HackerRank 
 ### Solution By RUCHIR TOSHNIWAL
+#### **Please put a star on the Repo...
 [![My hackerrank profile](images/HackerRankLogo.svg)](https://www.hackerrank.com/ruchirtoshniwal1)
 Solutions to some problems on Hackerrank .
 
