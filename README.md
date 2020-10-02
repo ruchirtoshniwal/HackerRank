@@ -1,5 +1,5 @@
 # HackerRank 
-### Solution By RUCHIR TOSHNIWAl
+### Solution By RUCHIR TOSHNIWAL
 [![My hackerrank profile](images/HackerRankLogo.svg)](https://www.hackerrank.com/ruchirtoshniwal1)
 Solutions to some problems on Hackerrank .
 
