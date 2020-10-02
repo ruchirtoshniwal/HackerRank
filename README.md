@@ -14,4 +14,8 @@ Solutions to some problems on Hackerrank.
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
-| Introduction | Easy | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [HelloWorld.c](C/HelloWorld.c) |
+| Introduction | Easy | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [HelloWorld.c](C/HelloWorld.c) 
+| Introduction | Easy | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem) | [PlayingWithCharacters.c](C/PlayingWithCharacters.c)
+| Introduction | Easy | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [SumAndDifferenceOfTwoNumbers.c](LANGUAGE%20PROFICIENCY/C/Introduction/SumAndDifferenceOfTwoNumbers.c)
+| Introduction | Easy | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem) | [FunctionsInC.c](C/FunctionsInC.c)
+| Introduction | Easy | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem) | [PointersInC.c](C/PointersInC.c)
